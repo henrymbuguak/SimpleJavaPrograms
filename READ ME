@@ -1,0 +1,19 @@
+/*
+   Author : Henry Mbugua Kiarie
+   Date   : 31st, January, 2016
+   Email  : henrymbuguak@gmail.com
+*/
+
+This is a simple project created Using Java programming language.
+I used Eclipse IDE and Java 8. This project containing the following programs:
+
+               1. Calculating Area of a circle.
+               2. Calculating Area of a Rectangle.
+               3. Calculating Perimeter of a circle.
+               4. Calculating Perimeter of a Rectangle.
+               5. Differentiating Odd and Even numbers.
+               6. Finding the largest and smallest number in an Array.
+               
+Note: You can download this project and import it in eclipse to test the code.
+
+                        ----- Happy Coding -----
